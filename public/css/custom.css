@@ -1,0 +1,12 @@
+ul.accept-list {
+    list-style: none;
+}
+li.accept-list-item {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+}
+
+#logo a.standard-logo {
+    width: 300px;
+}
